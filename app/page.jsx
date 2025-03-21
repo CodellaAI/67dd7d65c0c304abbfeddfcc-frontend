@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-4">
       <div className="w-full max-w-md p-8 bg-white rounded-lg shadow-md">
-        <h1 className="text-2xl font-bold mb-6 text-center text-gray-800">Simple Click test commit</h1>
+        <h1 className="text-2xl font-bold mb-6 text-center text-gray-800">Simple Click test commit asd</h1>
         
         <button
           onClick={handleClick}
